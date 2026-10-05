@@ -1,1 +1,1 @@
-# SmartSam AI
+# SmartSam
